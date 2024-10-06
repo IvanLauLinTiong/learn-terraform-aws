@@ -1,4 +1,6 @@
 # Notes
+![architechure](./architechure.PNG)
+
 ```cmd
 terraform console -var="host_os=unix"
 terraform console -var-file="dev.tfvars"
